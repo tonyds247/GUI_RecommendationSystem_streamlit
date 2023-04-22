@@ -1,7 +1,3 @@
-# GUI_RecommendationSystem_streamlit
-Use user-based and collaborative filtering to provide recommendations.
-
-
 # Recommendation_App
 Use user-based and collaborative filtering to provide recommendations.
 
@@ -96,7 +92,7 @@ There are two methods to calculate similarity between products:
 
 ---
 ## **GUI**
-- GUI is built with Streamlit and deployed on Streamlit cloud. 👉 [GUI's link]:
+- GUI is built with Streamlit and deployed on Streamlit cloud. 👉 [GUI's link](https://nhatminhcdt-recommendation-app-app-t8tv3b.streamlit.app/)
 
 ---
 ## **Troublesome**
