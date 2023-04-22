@@ -96,7 +96,7 @@ There are two methods to calculate similarity between products:
 
 ---
 ## **GUI**
-- GUI is built with Streamlit and deployed on Streamlit cloud. 👉 [GUI's link](https://nhatminhcdt-recommendation-app-app-t8tv3b.streamlit.app/)
+- GUI is built with Streamlit and deployed on Streamlit cloud. 👉 [GUI's link]:
 
 ---
 ## **Troublesome**
